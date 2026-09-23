@@ -1,2 +1,2 @@
 # SCILAB_ALL_PRACTICALS
-For VSIT Students ONLY
+
